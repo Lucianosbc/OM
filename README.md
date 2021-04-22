@@ -1,4 +1,4 @@
 # OM
- Primeiro repositório do curso de Git e GitHub
+ 
 
-Repositório criado durante curso Git e GitHub
+Repositório para testes no Git/GitHub
